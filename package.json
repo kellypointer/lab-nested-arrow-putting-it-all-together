@@ -8,8 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "**Overview**",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellypointer/lab-nested-arrow-putting-it-all-together.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kellypointer/lab-nested-arrow-putting-it-all-together/issues"
+  },
+  "homepage": "https://github.com/kellypointer/lab-nested-arrow-putting-it-all-together#readme"
 }
